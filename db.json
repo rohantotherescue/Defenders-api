@@ -1,0 +1,28 @@
+{
+    "heroes": [
+        {
+            "id": 0,
+            "name": "Matthew Murdock",
+            "profession": "A Good Lawyer",
+            "powers": "Superhuman senses Echolocative radar sense Skilled acrobat, martial artist, and stick fighter Utilization of specially-designed billy club"
+        },
+        {
+            "id": 1,
+            "name": "Jessica Jones",
+            "profession":"Private Investigator",
+            "powers":"super human strength, durability and flight"
+        },
+        {
+            "id": 2,
+            "name": "Carl Lucas",
+            "profession":"Barber",
+            "powers": "Superhuman strength and durability Unbreakable skin Skilled street fighter and hand-to-hand combatant Accelerated healing"
+        },
+        {
+            "id": 3,
+            "name": "Daniel Rand",
+            "profession":"CEO, Rand Enterprises",
+            "powers": "Uses his chi to turn his hand into an impentratable weapon, also possesses healing abilities"
+        }
+    ]
+}
